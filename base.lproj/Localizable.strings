@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  CountIT
+
+  Created by Claudio S. Di Mauro on 06/07/18.
+  Copyright © 2018 Claudio S. Di Mauro. All rights reserved.
+*/
+
+"No Normal Sessions saved" = "No Normal Sessions saved";
+"No Chrono Sessions saved" = "No Chrono Sessions saved";
+"Save session" = "Save session";
+"Enter a title for this session" = "Enter a title for this session";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Title" = "Title";

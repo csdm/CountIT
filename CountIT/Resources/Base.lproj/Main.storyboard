@@ -48,7 +48,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="59" translatesAutoresizingMaskIntoConstraints="NO" id="nd8-Bg-kCu">
-                                <rect key="frame" x="50" y="144.5" width="274" height="378"/>
+                                <rect key="frame" x="50" y="217.5" width="274" height="232.5"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="clip" translatesAutoresizingMaskIntoConstraints="NO" id="Wbt-Bf-uaB">
                                         <rect key="frame" x="0.0" y="0.0" width="274" height="86.5"/>
@@ -69,13 +69,6 @@
                                         <connections>
                                             <segue destination="kxN-KF-wGE" kind="show" id="Up6-Vh-iPE"/>
                                         </connections>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cSL-EW-1di">
-                                        <rect key="frame" x="0.0" y="291.5" width="274" height="86.5"/>
-                                        <constraints>
-                                            <constraint firstAttribute="width" secondItem="cSL-EW-1di" secondAttribute="height" multiplier="60:19" id="j7i-J3-j2E"/>
-                                        </constraints>
-                                        <state key="normal" image="Button Multiple Counting"/>
                                     </button>
                                 </subviews>
                             </stackView>
@@ -180,7 +173,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aSQ-Yg-NBE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1724" y="1639"/>
+            <point key="canvasLocation" x="-1804" y="1639"/>
         </scene>
         <!--Chrono Session-->
         <scene sceneID="da0-YP-e1j">
@@ -330,7 +323,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4GQ-Ec-abj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-570.39999999999998" y="1638.5307346326838"/>
+            <point key="canvasLocation" x="-550" y="1639"/>
         </scene>
         <!--CountIT-->
         <scene sceneID="tne-QT-ifu">
@@ -719,7 +712,6 @@
         <image name="003-settings-work-tool" width="25" height="25"/>
         <image name="004-history-clock-button" width="25" height="24"/>
         <image name="Button Chrono" width="300" height="95"/>
-        <image name="Button Multiple Counting" width="300" height="95"/>
         <image name="Button Normal" width="300" height="95"/>
         <image name="Refresh" width="32" height="32"/>
         <image name="speaker" width="30" height="46"/>

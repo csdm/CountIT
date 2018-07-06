@@ -6,5 +6,10 @@
   Copyright © 2018 Claudio S. Di Mauro. All rights reserved.
 */
 
-"Normal Session" = "Sessione Normale";
-"History" = "Storico";
+"No Normal Sessions saved" = "Nessuna sessione normale salvata";
+"No Chrono Sessions saved" = "Nessuna sessione temporizzata salvata";
+"Save session" = "Salva sessione";
+"Enter a title for this session" = "Inserisci un titolo per questa sessione";
+"Save" = "Salva";
+"Cancel" = "Cancella";
+"Title" = "Titolo";
