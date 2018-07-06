@@ -42,7 +42,7 @@
 "J0W-Me-9na.segmentTitles[0]" = "Sessioni Normali";
 
 /* Class = "UISegmentedControl"; J0W-Me-9na.segmentTitles[1] = "Chrono Sessions"; ObjectID = "J0W-Me-9na"; */
-"J0W-Me-9na.segmentTitles[1]" = "Sessioni Temporizzate";
+"J0W-Me-9na.segmentTitles[1]" = "Sessioni a Tempo";
 
 /* Class = "UILabel"; text = "00"; ObjectID = "J0Y-ZQ-kLQ"; */
 "J0Y-ZQ-kLQ.text" = "00";
@@ -54,7 +54,7 @@
 "Oea-Rs-UCy.text" = "Vibrazione";
 
 /* Class = "UINavigationItem"; title = "Chrono Session"; ObjectID = "QIZ-kJ-PJd"; */
-"QIZ-kJ-PJd.title" = "Sessione Temporizzata";
+"QIZ-kJ-PJd.title" = "Sessione a Tempo";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "TGS-Qj-qVk"; */
 "TGS-Qj-qVk.title" = "Impostazioni";
@@ -84,7 +84,7 @@
 "ixJ-vp-Xtf.text" = "0000";
 
 /* Class = "UIViewController"; title = "Chrono Session"; ObjectID = "kxN-KF-wGE"; */
-"kxN-KF-wGE.title" = "Sessione Temporizzata";
+"kxN-KF-wGE.title" = "Sessione a Tempo";
 
 /* Class = "UINavigationItem"; title = "CountIT"; ObjectID = "rIu-Gq-xfK"; */
 "rIu-Gq-xfK.title" = "CountIT";
