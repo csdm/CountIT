@@ -56,6 +56,7 @@ class HistoryViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.tableView.backgroundColor = UIColor.black
+        self.navigationController?.title = NSLocalizedString("History", comment: "")
         
         tableView.delegate = self
         tableView.dataSource = self

@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "123-DW-CKX"; */
+"123-DW-CKX.text" = "0";
+
+/* Class = "UILabel"; text = "0000"; ObjectID = "3aH-jR-rQx"; */
+"3aH-jR-rQx.text" = "0000";
+
+/* Class = "UINavigationItem"; title = "Session"; ObjectID = "4cn-PD-gqS"; */
+"4cn-PD-gqS.title" = "Sessione";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "5P4-ke-58a"; */
+"5P4-ke-58a.text" = ":";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "5jz-Ht-2uN"; */
+"5jz-Ht-2uN.text" = ":";
+
+/* Class = "UIButton"; normalTitle = "Support page"; ObjectID = "5yR-Ll-vON"; */
+"5yR-Ll-vON.normalTitle" = "Pagina di supporto";
+
+/* Class = "UILabel"; text = "Sound effects"; ObjectID = "8ho-od-kM8"; */
+"8ho-od-kM8.text" = "Effetti sonori";
+
+/* Class = "UITabBarItem"; title = "Session"; ObjectID = "9xn-Oj-lFz"; */
+"9xn-Oj-lFz.title" = "Sessione";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "Das-wq-z4x"; */
+"Das-wq-z4x.normalTitle" = "START";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "EyN-MR-UoQ"; */
+"EyN-MR-UoQ.text" = "00";
+
+/* Class = "UITableViewSection"; headerTitle = "Audio"; ObjectID = "FBA-a8-hR2"; */
+"FBA-a8-hR2.headerTitle" = "Audio";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "FVJ-Oz-otk"; */
+"FVJ-Oz-otk.text" = "00";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "GHD-jx-BaM"; */
+"GHD-jx-BaM.title" = "Impostazioni";
+
+/* Class = "UISegmentedControl"; J0W-Me-9na.segmentTitles[0] = "Normal Sessions"; ObjectID = "J0W-Me-9na"; */
+"J0W-Me-9na.segmentTitles[0]" = "Sessione Normale";
+
+/* Class = "UISegmentedControl"; J0W-Me-9na.segmentTitles[1] = "Chrono Sessions"; ObjectID = "J0W-Me-9na"; */
+"J0W-Me-9na.segmentTitles[1]" = "Sessione Temporizzata";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "J0Y-ZQ-kLQ"; */
+"J0Y-ZQ-kLQ.text" = "00";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "K4G-GM-nOW"; */
+"K4G-GM-nOW.title" = "Indietro";
+
+/* Class = "UILabel"; text = "Vibration"; ObjectID = "Oea-Rs-UCy"; */
+"Oea-Rs-UCy.text" = "Vibrazione";
+
+/* Class = "UINavigationItem"; title = "Chrono Session"; ObjectID = "QIZ-kJ-PJd"; */
+"QIZ-kJ-PJd.title" = "Sessione Temporizzata";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "TGS-Qj-qVk"; */
+"TGS-Qj-qVk.title" = "Impostazioni";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "UxW-iS-To9"; */
+"UxW-iS-To9.title" = "Salva";
+
+/* Class = "UILabel"; text = "0000"; ObjectID = "VQk-Fp-at1"; */
+"VQk-Fp-at1.text" = "0000";
+
+/* Class = "UILabel"; text = "00:00:00:00"; ObjectID = "Z7v-wy-hAi"; */
+"Z7v-wy-hAi.text" = "00:00:00:00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "gNX-p1-4WX"; */
+"gNX-p1-4WX.text" = "00";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "h7N-Fz-pTx"; */
+"h7N-Fz-pTx.text" = "Titolo";
+
+/* Class = "UIViewController"; title = "Normal Session"; ObjectID = "hcY-qv-E7e"; */
+"hcY-qv-E7e.title" = "Sessione Normale";
+
+/* Class = "UILabel"; text = "00/00/0000"; ObjectID = "hr0-qq-hvM"; */
+"hr0-qq-hvM.text" = "00/00/0000";
+
+/* Class = "UILabel"; text = "0000"; ObjectID = "ixJ-vp-Xtf"; */
+"ixJ-vp-Xtf.text" = "0000";
+
+/* Class = "UIViewController"; title = "Chrono Session"; ObjectID = "kxN-KF-wGE"; */
+"kxN-KF-wGE.title" = "Sessione Temporizzata";
+
+/* Class = "UINavigationItem"; title = "CountIT"; ObjectID = "rIu-Gq-xfK"; */
+"rIu-Gq-xfK.title" = "CountIT";
+
+/* Class = "UITabBarItem"; title = "CountIT"; ObjectID = "sXd-7j-DMp"; */
+"sXd-7j-DMp.title" = "CountIT";
+
+/* Class = "UINavigationItem"; title = "Normal Session"; ObjectID = "w9T-9T-DBE"; */
+"w9T-9T-DBE.title" = "Sessione Normale";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "x7m-xq-JWv"; */
+"x7m-xq-JWv.title" = "Salva";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "ywi-2I-gY7"; */
+"ywi-2I-gY7.title" = "Storico";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "zTx-xm-DgG"; */
+"zTx-xm-DgG.title" = "Storico";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "zsh-y0-DFX"; */
+"zsh-y0-DFX.text" = ":";
