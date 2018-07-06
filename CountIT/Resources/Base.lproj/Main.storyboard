@@ -47,13 +47,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="57" translatesAutoresizingMaskIntoConstraints="NO" id="BEw-RB-sPg">
-                                <rect key="frame" x="50.5" y="218.5" width="274" height="230.5"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="59" translatesAutoresizingMaskIntoConstraints="NO" id="nd8-Bg-kCu">
+                                <rect key="frame" x="50" y="144.5" width="274" height="378"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="clip" translatesAutoresizingMaskIntoConstraints="NO" id="Wbt-Bf-uaB">
                                         <rect key="frame" x="0.0" y="0.0" width="274" height="86.5"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" secondItem="Wbt-Bf-uaB" secondAttribute="height" multiplier="60:19" id="7et-a6-yRC"/>
+                                            <constraint firstAttribute="width" secondItem="Wbt-Bf-uaB" secondAttribute="height" multiplier="60:19" id="ZMg-cG-oqL"/>
                                         </constraints>
                                         <state key="normal" image="Button Normal"/>
                                         <connections>
@@ -61,23 +61,30 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eNh-Gl-jDs">
-                                        <rect key="frame" x="0.0" y="143.5" width="274" height="87"/>
+                                        <rect key="frame" x="0.0" y="145.5" width="274" height="87"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" secondItem="eNh-Gl-jDs" secondAttribute="height" multiplier="60:19" id="iA4-8Q-CnT"/>
+                                            <constraint firstAttribute="width" secondItem="eNh-Gl-jDs" secondAttribute="height" multiplier="60:19" id="fg6-X2-2ko"/>
                                         </constraints>
                                         <state key="normal" image="Button Chrono"/>
                                         <connections>
                                             <segue destination="kxN-KF-wGE" kind="show" id="Up6-Vh-iPE"/>
                                         </connections>
                                     </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cSL-EW-1di">
+                                        <rect key="frame" x="0.0" y="291.5" width="274" height="86.5"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="cSL-EW-1di" secondAttribute="height" multiplier="60:19" id="j7i-J3-j2E"/>
+                                        </constraints>
+                                        <state key="normal" image="Button Multiple Counting"/>
+                                    </button>
                                 </subviews>
                             </stackView>
                         </subviews>
                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="BEw-RB-sPg" firstAttribute="centerX" secondItem="Qe9-Z4-N3S" secondAttribute="centerX" id="4Iy-Yr-yTE"/>
-                            <constraint firstItem="BEw-RB-sPg" firstAttribute="centerY" secondItem="Qe9-Z4-N3S" secondAttribute="centerY" id="glj-m7-AS1"/>
-                            <constraint firstItem="BEw-RB-sPg" firstAttribute="width" secondItem="Qe9-Z4-N3S" secondAttribute="width" multiplier="0.73" id="ifr-lx-NPx"/>
+                            <constraint firstItem="nd8-Bg-kCu" firstAttribute="width" secondItem="Qe9-Z4-N3S" secondAttribute="width" multiplier="0.73" id="Mbz-A7-LUu"/>
+                            <constraint firstItem="nd8-Bg-kCu" firstAttribute="centerY" secondItem="Qe9-Z4-N3S" secondAttribute="centerY" id="OjH-R1-eFx"/>
+                            <constraint firstItem="nd8-Bg-kCu" firstAttribute="centerX" secondItem="Qe9-Z4-N3S" secondAttribute="centerX" id="SeZ-iO-sOP"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="VaS-VK-zhl"/>
                     </view>
@@ -712,6 +719,7 @@
         <image name="003-settings-work-tool" width="25" height="25"/>
         <image name="004-history-clock-button" width="25" height="24"/>
         <image name="Button Chrono" width="300" height="95"/>
+        <image name="Button Multiple Counting" width="300" height="95"/>
         <image name="Button Normal" width="300" height="95"/>
         <image name="Refresh" width="32" height="32"/>
         <image name="speaker" width="30" height="46"/>
