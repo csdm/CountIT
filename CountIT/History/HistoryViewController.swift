@@ -56,7 +56,6 @@ class HistoryViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.tableView.backgroundColor = UIColor.black
-        self.navigationController?.title = NSLocalizedString("History", comment: "")
         
         tableView.delegate = self
         tableView.dataSource = self
@@ -152,7 +151,9 @@ class HistoryViewController: UITableViewController {
             }
             else {
                 //Nascondo le righe di separazione, disabilito lo scrolling e mostro il messaggio
-                TableViewHelper.EmptyMessage(message: "No Normal Sessions saved", viewController: self)
+                //TableViewHelper.EmptyMessage(message: "No Normal Sessions saved", viewController: self)
+                let noSessString = NSLocalizedString("No Normal Sessions saved", comment: "")
+                TableViewHelper.EmptyMessage(message: noSessString, viewController: self)
                 tableView.isScrollEnabled = false
                 self.tableView.separatorStyle = .none;
                 return 0
@@ -165,7 +166,9 @@ class HistoryViewController: UITableViewController {
             }
             else {
                 //Nascondo le righe di separazione, disabilito lo scrolling e mostro il messaggio
-                TableViewHelper.EmptyMessage(message: "No Chrono Sessions saved", viewController: self)
+                //TableViewHelper.EmptyMessage(message: "No Chrono Sessions saved", viewController: self)
+                let noSessString = NSLocalizedString("No Chrono Sessions saved", comment: "")
+                TableViewHelper.EmptyMessage(message: noSessString, viewController: self)
                 tableView.isScrollEnabled = false
                 self.tableView.separatorStyle = .none;
                 return 0

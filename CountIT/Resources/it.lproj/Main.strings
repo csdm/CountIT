@@ -39,10 +39,10 @@
 "GHD-jx-BaM.title" = "Impostazioni";
 
 /* Class = "UISegmentedControl"; J0W-Me-9na.segmentTitles[0] = "Normal Sessions"; ObjectID = "J0W-Me-9na"; */
-"J0W-Me-9na.segmentTitles[0]" = "Sessione Normale";
+"J0W-Me-9na.segmentTitles[0]" = "Sessioni Normali";
 
 /* Class = "UISegmentedControl"; J0W-Me-9na.segmentTitles[1] = "Chrono Sessions"; ObjectID = "J0W-Me-9na"; */
-"J0W-Me-9na.segmentTitles[1]" = "Sessione Temporizzata";
+"J0W-Me-9na.segmentTitles[1]" = "Sessioni Temporizzate";
 
 /* Class = "UILabel"; text = "00"; ObjectID = "J0Y-ZQ-kLQ"; */
 "J0Y-ZQ-kLQ.text" = "00";

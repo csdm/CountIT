@@ -35,7 +35,7 @@
 		5C25820920F0018F002AFFF9 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
 		5C25820A20F0018F002AFFF9 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		5C25820E20F0026E002AFFF9 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
-		5C25821020F0026F002AFFF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		5C25821120F00763002AFFF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		5C3BA9F120BE90DE00D94951 /* decremClick.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = decremClick.aiff; sourceTree = "<group>"; };
 		5C3BA9F220BE90DE00D94951 /* click.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = click.aiff; sourceTree = "<group>"; };
 		5C3BA9F720BE923A00D94951 /* Segment7Standard.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Segment7Standard.otf; sourceTree = "<group>"; };
@@ -319,7 +319,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				5C25820E20F0026E002AFFF9 /* it */,
-				5C25821020F0026F002AFFF9 /* en */,
+				5C25821120F00763002AFFF9 /* Base */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

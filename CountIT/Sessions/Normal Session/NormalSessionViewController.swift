@@ -152,9 +152,15 @@ class NormalSessionViewController: UIViewController {
     
     
     @IBAction func saveButton(_ sender: Any) {
-        let alertController = UIAlertController(title: "Save session", message: "Enter a title for this session", preferredStyle: .alert)
+        let alertTitle = NSLocalizedString("Save session", comment: "")
+        let alertMessage = NSLocalizedString("Enter a title for this session", comment: "")
+        let alertConfirm = NSLocalizedString("Save", comment: "")
+        let alertCancel = NSLocalizedString("Cancel", comment: "")
+        let alertPlaceholder = NSLocalizedString("Title", comment: "")
         
-        let confirmAction = UIAlertAction(title: "Save", style: .default) { (_) in
+        let alertController = UIAlertController(title: alertTitle, message: alertMessage, preferredStyle: .alert)
+        
+        let confirmAction = UIAlertAction(title: alertConfirm, style: .default) { (_) in
             guard let textFields = alertController.textFields,
                 textFields.count > 0
                 else {
@@ -182,10 +188,10 @@ class NormalSessionViewController: UIViewController {
             self.savedPopUp()            
         }
         
-        let cancelAction = UIAlertAction(title: "Cancel", style: .cancel) { (_) in }
+        let cancelAction = UIAlertAction(title: alertCancel, style: .cancel) { (_) in }
         
         alertController.addTextField { (textField) in
-            textField.placeholder = "Title"
+            textField.placeholder = alertPlaceholder
         }
         
         alertController.addAction(confirmAction)
